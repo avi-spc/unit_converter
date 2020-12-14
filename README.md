@@ -1,2 +1,3 @@
 # unit_converter
-Unit Converter application built on flutter framework.
+
+Unit converter application for all categories that can be measured.
