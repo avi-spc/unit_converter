@@ -42,6 +42,7 @@ class Category extends StatelessWidget {
             color: color,
             units: units,
           ),
+          resizeToAvoidBottomPadding: false,
         );
       },
     ));
